@@ -1,5 +1,7 @@
 # Assignment 1 (Part B) Daedalus is ded
 
+MY SOLUTION IS IN FILE : src/main/java/DaedalusSolver
+
 Your goal in this assignment is to complete the `DaedalusSolver` class (in the provided intelliJ project) so that your program automatically finds its way out of a maze (as defined in Part 1 of this assignment).
 
 You are expected to add to the `DaedalusSolver` class so that the public `solve` method returns a String containing the path of doors to follow through to find all of the three special objects in the maze:
