@@ -1,6 +1,9 @@
 # Assignment 1 (Part B) Daedalus is ded
 
 MY SOLUTION IS IN FILE : src/main/java/DaedalusSolver
+GRADE FOR THIS ASSIGNMENT: 93%
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Your goal in this assignment is to complete the `DaedalusSolver` class (in the provided intelliJ project) so that your program automatically finds its way out of a maze (as defined in Part 1 of this assignment).
 
